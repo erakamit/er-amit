@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 About Me...
+# 👨‍💻 About Me..
 
 * 🎓 B.Tech Mechanical Engineering (BPMCE)
 * 🔐 Cyber Security Enthusiast
